@@ -1,0 +1,77 @@
+---
+product-family:
+  title: Solutions NetApp
+  lead: Transformez votre infrastructure informatique avec les solutions NetApp ,
+    conçues pour rationaliser les opérations, améliorer la gestion du cloud et optimiser
+    le stockage.  Parcourez les solutions par domaine d’intérêt ou utilisez la barre
+    de recherche pour trouver du contenu n’importe où dans les solutions NetApp .
+  summary: Transformez votre infrastructure informatique avec les solutions NetApp
+    , conçues pour rationaliser les opérations, améliorer la gestion du cloud et optimiser
+    le stockage.  Parcourez les solutions par domaine d’intérêt ou utilisez la barre
+    de recherche pour trouver du contenu n’importe où dans les solutions NetApp .
+  sidebarlinks:
+  - title: Tous
+    tags: all
+    class: active
+  - title: Automation
+    tags: automation
+  - title: Protection des données
+    tags: protection
+  - title: DevOps
+    tags: devops
+  - title: Applications d'entreprise
+    tags: entapps
+  - title: Haute disponibilité
+    tags: ha
+  - title: Charges de travail
+    tags: workloads
+  tiles:
+  - title: En savoir plus sur les solutions NetApp
+    icon: "./media/icon_family_ieops-2302.png"
+    url: intro-family.html
+    summary: Découvrez les solutions NetApp .
+    tags: all
+  - title: Solutions de virtualisation
+    icon: "./media/icon_virtualization_ieops-2280.png"
+    url: netapp-solutions-virtualization/
+    summary: Solutions pour fournir une infrastructure de données agile, fiable et
+      efficace dans des environnements virtualisés.
+    tags: all,automation,ha,workloads
+  - title: Solutions d'intelligence artificielle
+    icon: "./media/icon_artificial_intelligence_ieops-2282.png"
+    url: netapp-solutions-ai/
+    summary: Des solutions pour améliorer les performances, la productivité et la
+      protection de vos données.
+    tags: all,automation,workloads
+  - title: Solutions de cloud public et hybride
+    icon: "./media/icon_public_hybrid_ieops-2281.png"
+    url: netapp-solutions-cloud/
+    summary: Solutions pour simplifier la mobilité des charges de travail, offrir
+      des performances de niveau entreprise et unifier la gestion des données dans
+      les environnements sur site et multicloud.
+    tags: all,ha,protection,workloads
+  - title: Solutions de bases de données
+    icon: "./media/icon_databases_ieops-2283.png"
+    url: netapp-solutions-databases/
+    summary: Solutions pour libérer tout le potentiel du stockage NetApp dans les
+      principales bases de données d’entreprise.
+    tags: all,entapps,ha,protection,workloads
+  - title: Solutions SAP et SAP HANA
+    icon: "./media/icon_sap_hana_ieops-2285.png"
+    url: netapp-solutions-sap/
+    summary: Solutions pour maximiser les performances et l'efficacité de vos environnements
+      SAP et SAP HANA.
+    tags: all,entapps,ha,protection,workloads
+  - title: Solutions de conteneurs
+    icon: "./media/icon_containers_ieops-2284.png"
+    url: netapp-solutions-containers/
+    summary: Solutions pour simplifier et faire évoluer les environnements Kubernetes
+      avec des déploiements validés et une intégration transparente avec les systèmes
+      et logiciels de gestion de stockage NetApp .
+    tags: all,automation,devops,workloads
+  - title: Solutions de gestion des données
+    icon: "./media/icon_analytics_ieops-2283.png"
+    url: netapp-solutions-dataops/
+    summary: Solutions pour gérer vos services de stockage et de données, sur site
+      et dans les clouds.
+    tags: all,automation,protection,workloads
