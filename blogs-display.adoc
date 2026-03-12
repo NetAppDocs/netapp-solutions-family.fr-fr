@@ -359,7 +359,7 @@ Consultez les blogs ci-dessous qui offrent des conseils pratiques et des bonnes 
 | Conteneurs | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-ONTAP-doubles-up-as-storage-for-logs-in-Red-Hat-OpenShift-Container/ba-p/449280["NetApp ONTAP sert également de stockage pour les journaux dans Red Hat OpenShift Container Platform"] 
 |===
 --
-.SAP et SAP HAHA
+.SAP et SAP HANA
 --
 [cols="20%, 80%"]
 |===
