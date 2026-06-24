@@ -7,6 +7,9 @@
 | *Catégorie* | *Titre du blog* 
 
 
+| Plateforme de données | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Conception d'une architecture de sauvegarde et de reprise après sinistre d'entreprise pour Cloudera avec NetApp"] 
+
+
 | IA | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["Optimisation du déchargement du cache KV pour les contextes longs"] 
 
 
